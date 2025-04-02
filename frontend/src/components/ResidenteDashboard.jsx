@@ -1,5 +1,5 @@
 const ResidenteDashboard = () => {
-    return <h1>Bienvenido/a: Nombre Residente</h1>;
+    return <h1>Bienvenid@ --Nombre del residente--</h1>;
   };
   
   export default ResidenteDashboard;
