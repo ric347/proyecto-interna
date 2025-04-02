@@ -1,13 +1,14 @@
-# Ignorar archivos compilados de Python
+# Ignorar archivos de Python
 __pycache__/
 *.pyc
 *.pyo
+*.sqlite3
 
-# Ignorar la base de datos SQLite
-db.sqlite3
-
-# Ignorar dependencias de Python y Node.js
-venv/
+# Ignorar archivos de Node.js
 node_modules/
+dist/
+.vite/
 
-
+# Ignorar archivos del entorno virtual de Python
+venv/
+.env
