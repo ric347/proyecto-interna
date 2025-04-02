@@ -12,3 +12,6 @@ dist/
 # Ignorar archivos del entorno virtual de Python
 venv/
 .env
+
+# Ignorar la base de datos SQLite
+backend/backend/db.sqlite3
