@@ -1,0 +1,13 @@
+# Ignorar archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar la base de datos SQLite
+db.sqlite3
+
+# Ignorar dependencias de Python y Node.js
+venv/
+node_modules/
+
+
